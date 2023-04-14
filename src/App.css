@@ -1,0 +1,56 @@
+body{
+  background-color: rgb(137, 139, 139);
+}
+.App{
+  text-align: center;
+}
+input{
+  padding: 9px;
+  margin-right: 8px;
+  border: 2px solid rgb(131, 102, 102);
+  border-radius: 3px;
+}
+.add-button{
+  padding: 7px;
+  border: 2px solid rgb(131, 102, 102);
+  border-radius: 3px;
+}
+
+ul {
+  list-style: none;
+}
+li{
+  margin: 12px 0;
+}
+.delete-button{
+  margin-left: 8px;
+  background-color: brown;
+  color: rgb(21, 20, 20);
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 15px;
+}
+.edit-button{
+  margin-left: 8px;
+  background-color: rgb(33, 131, 79);
+  color: rgb(21, 20, 20);
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 15px;
+}
+.update-button{
+  margin-left: 8px;
+  background-color: rgb(33, 131, 79);
+  color: rgb(21, 20, 20);
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 15px;
+}
+.cancel-button{
+  margin-left: 8px;
+  background-color: brown;
+  color: rgb(21, 20, 20);
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 15px;
+}
